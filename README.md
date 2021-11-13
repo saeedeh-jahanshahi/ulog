@@ -1,1 +1,2 @@
 # ulog
+This repository contains the files for ulog data type library. ulog is a logarithmic base data type that is implemented in software. The purpose of ulog is reduction of read and write to/from memory to decrease the time and power consumption of error tolerance computations, significantly. This library uses the vectorization capability of intel AVX512 CPUs. therefore use avx512 CPUs to run this library.
